@@ -15,6 +15,7 @@ Following these three formats of files are supported to be translasted into one 
 | coe | Codes that initialize the memory IP-core in Xilinx ISE |
 | bin | Executive code stream on Xilinx FPGA |
 | asm | MIPS assembly language code |  
+
 Following chapter will discuss these functions in detail.  
 
 # 3. USAGE
