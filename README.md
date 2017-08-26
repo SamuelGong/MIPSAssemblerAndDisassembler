@@ -104,8 +104,8 @@ No matter whether you will save it or not, the immediate result will be print in
 Note that you can also disassemble what Zhang Hai’s program has assembled. 
 In other words, we share the same form of binary file format.  
 
-# 4. LICENCE
-The content of all the codes are supposed to use a licence [AGPLv3](./LICENCE)  
+# 4. LICENSE
+The content of all the codes are supposed to use a licence [AGPLv3](./LICENSE)  
 
 # 5. HOW TO CONTRIBUTE
 1. Learn what is a AGPLv3, if you have not yet done so (see details above).  
