@@ -90,7 +90,7 @@ Our program supports to disassemble all the instructions you can get from our as
 *p.s. Note that the labels’ names are auto-made like “L0” “L1” and so on.*  
 
 #### BIN to ASM
-f you want to disassemble a bin file into a new asm file, do as the basic instruction:  
+If you want to disassemble a bin file into a new asm file, do as the basic instruction:  
 * Click Open asm or coe in the Open menu, or simply click the corresponding button.
 *	You will have a dialog box to choose the file you want.
 *	Then the bin file will be read and turnt into readable form, which can be seen 
