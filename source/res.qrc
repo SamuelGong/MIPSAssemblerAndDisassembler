@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/images">
+        <file alias="doc-open">document-open.png</file>
+        <file alias="doc-save">document-save.png</file>
+        <file alias="to-bin">stock_right.png</file>
+        <file alias="to-coe">go-last.png</file>
+        <file alias="color">color.png</file>
+        <file alias="bin-to-asm">back.png</file>
+        <file alias="coe-to-asm">go-first.png</file>
+        <file alias="bin-open">stock_file-properites.png</file>
+    </qresource>
+</RCC>
