@@ -120,3 +120,11 @@ The content of all the codes are supposed to use a licence [AGPLv3](./LICENSE)
 First of all, I would like to extend my sincere gratitude to my supervisor, Xiaohong Jiang, for her instructive advice and useful suggestions on my learning on computer organization.
 I am also deeply grateful of Zhe Pan, the TA's help in the completion and assessment of this project.  
 High tribute shall be paid to Shuai Cheng, whose profound knowledge of Qt libraries helps my compiling for this brilliant project.  
+
+
+## Recent activity [![Time period](https://images.repography.com/44587806/SamuelGong/MIPSAssemblerAndDisassembler/recent-activity/MJ8nzQrCB99vdaIGyg39xFK-R6EEArJBOZvEdL_k2g0/C4dpLUrLre0SggMnaxGROcaDpEuzMFH2pOL68ImaOwc_badge.svg)](https://repography.com)
+[![Timeline graph](https://images.repography.com/44587806/SamuelGong/MIPSAssemblerAndDisassembler/recent-activity/MJ8nzQrCB99vdaIGyg39xFK-R6EEArJBOZvEdL_k2g0/C4dpLUrLre0SggMnaxGROcaDpEuzMFH2pOL68ImaOwc_timeline.svg)](https://github.com/SamuelGong/MIPSAssemblerAndDisassembler/commits)
+[![Issue status graph](https://images.repography.com/44587806/SamuelGong/MIPSAssemblerAndDisassembler/recent-activity/MJ8nzQrCB99vdaIGyg39xFK-R6EEArJBOZvEdL_k2g0/C4dpLUrLre0SggMnaxGROcaDpEuzMFH2pOL68ImaOwc_issues.svg)](https://github.com/SamuelGong/MIPSAssemblerAndDisassembler/issues)
+[![Pull request status graph](https://images.repography.com/44587806/SamuelGong/MIPSAssemblerAndDisassembler/recent-activity/MJ8nzQrCB99vdaIGyg39xFK-R6EEArJBOZvEdL_k2g0/C4dpLUrLre0SggMnaxGROcaDpEuzMFH2pOL68ImaOwc_prs.svg)](https://github.com/SamuelGong/MIPSAssemblerAndDisassembler/pulls)
+[![Activity map](https://images.repography.com/44587806/SamuelGong/MIPSAssemblerAndDisassembler/recent-activity/MJ8nzQrCB99vdaIGyg39xFK-R6EEArJBOZvEdL_k2g0/C4dpLUrLre0SggMnaxGROcaDpEuzMFH2pOL68ImaOwc_map.svg)](https://github.com/SamuelGong/MIPSAssemblerAndDisassembler/commits)
+
